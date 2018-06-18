@@ -1,0 +1,8 @@
+{
+  "name": "001-sign-up",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Josiah Donor",
+  "license": "MIT",
+  "private": true
+}
