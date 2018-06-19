@@ -1,6 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const App = () => <h1>Hello world!</h1>;
+import Signup from './components/Signup';
+
+const App = () => (
+  <div className="container">
+    <Signup />
+  </div>
+);
 
 ReactDOM.render(<App />, document.getElementById('app'));
